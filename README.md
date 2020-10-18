@@ -1,6 +1,6 @@
 # Jumping Dungeon
 ![JUMPING DENGEON_Title](https://user-images.githubusercontent.com/61229227/96374205-310e4d00-11ac-11eb-9752-8f37818ccbb8.png)
-
+{% include video.html id="Bw16tWnNHKM" %}
 
 # 📘프로젝트 동기
 
