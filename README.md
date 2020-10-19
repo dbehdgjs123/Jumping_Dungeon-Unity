@@ -3,6 +3,8 @@
 
 ![JUMPING DENGEON_Title](https://user-images.githubusercontent.com/61229227/96374205-310e4d00-11ac-11eb-9752-8f37818ccbb8.png)
 
+다운로드 링크: https://play.google.com/store/apps/details?id=com.test.jumpingdungeon&hl=ko
+
 플레이 영상
 ---
 [![dd](https://img.youtube.com/vi/Bw16tWnNHKM/0.jpg)](https://www.youtube.com/watch?v=Bw16tWnNHKM?t=0s)
